@@ -1,5 +1,20 @@
 @font-face {
-   font-family: 'GOODTIME';
+   font-family: 'John Mayer';
    font-display: swap;
-   src: url('GOODTIME/font.ttf');
+   src: url('John Mayer/font.ttf');
+}
+@font-face {
+   font-family: 'Orlande';
+   font-display: swap;
+   src: url('Orlande/font.ttf');
+}
+@font-face {
+   font-family: 'Qartella-Regular';
+   font-display: swap;
+   src: url('Qartella-Regular/font.woff');
+}
+@font-face {
+   font-family: 'Magistic-SVG';
+   font-display: swap;
+   src: url('Magistic-SVG/font.ttf');
 }
